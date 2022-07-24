@@ -5,7 +5,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Online Sites
+[![netlify](netlify.svg)](https://reactjs-weather-website.netlify.app/)
 
+[![heroku](heroku.svg)](https://reactjs-weather-website.herokuapp.com/)
 
 ## Available Scripts
 
@@ -36,6 +38,6 @@ Your app is ready to be deployed!
 
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
-[![Deploy](https://www.netlify.com/img/deploy/button.svg)]()
+[![Deploy](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/surzia/react-weather-app)
 
 
